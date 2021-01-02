@@ -25,7 +25,7 @@ SECRET_KEY = '$4pha&m478hw9c+*2)l0f6qrwtw$%28c$+)_4$@58fu5z@nu!c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','quranworldask.herokuapp.com']
 
 
 # Application definition
